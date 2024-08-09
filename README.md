@@ -1,6 +1,6 @@
-# 👋 Hey, I’m Gabriel, a self-taught aiming to become a Full stack developer.
-
-Currently, I'm focusing on the front-end...
+# 👋 Hey, I’m Gabriel,
+###a self-taught aiming to become a Full stack developer.
+###Currently, I'm focusing on the front-end...
 
 ## My Skills
 ReactJs | Javascript / TypeScript | TailwindCss 
