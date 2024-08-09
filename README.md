@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Gabriel, Developer FullStack
+# 👋 Hey, I’m Gabriel, Developer Front end
 
 
 <!---
