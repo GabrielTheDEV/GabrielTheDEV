@@ -1,7 +1,5 @@
 # 👋 Hey, I’m Gabriel, Developer Front end
 
-### ✨ I love building things
-
 ## My Skills
   Javascript | ReactJs | TypeScript
 <!---
