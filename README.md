@@ -41,16 +41,6 @@
   <li> Livros e PDFs</li>
   
 </ul>
-  
-
----
-
-## 🚀 Projetos em Destaque
-
-<ul>
-  <li><a href="https://github.com/seuusuario/projeto1"><strong>Projeto 1</strong></a>Calculadora de juros compostos</li>
- 
-</ul>
 
 ---
 
