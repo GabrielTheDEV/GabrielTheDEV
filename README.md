@@ -39,7 +39,7 @@
 <ul>
   <li> Documentações</li>
   <li> Livros e PDFs</li>
-  
+  <li> Blogs e fórums</li>
 </ul>
 
 ---
