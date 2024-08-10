@@ -2,7 +2,7 @@
   <h1>👋 Olá! Meu nome é Gabriel</h1>
   <h3>Sou um autodidata que adora tecnologia</h3>
   <h4> tenho o objetivo de me tornar um desenvolvedor FullStack, atualmente estou focado no Front end </h4>
-</div>
+</div> 
 
 <div align="center">
 
@@ -26,6 +26,7 @@
   <li><strong>React:</strong> Para construção de interfaces dinâmicas e reativas</li>
   <li><strong>Redux:</strong> Gerenciamento de estados</li>
   <li><strong>Tailwind Css:</strong> Estudando... </li>
+  <li><strong>Next:</strong> Em breve </li>
   <li><strong>Jest:</strong> Em breve...</li>
   <li><strong>Node.js:</strong> Em breve...</li>
   <li><strong>Express:</strong> Em breve...</li>
