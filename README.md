@@ -1,5 +1,6 @@
 # 👋 Hey, I’m Gabriel
 a self-taught aiming to become a Full stack developer.
+<br>
 Currently, I'm focusing on the front-end...
 
 ## My Skills
