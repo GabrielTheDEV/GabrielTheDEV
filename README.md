@@ -1,48 +1,59 @@
-# 👋 Hey, I’m Gabriel
-a self-taught aiming to become a Full stack developer.
-<br>
-Currently, I'm focusing on the front-end...
-
-## My Skills
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+<div align="center">
+  <h1>👋 Olá! Meu nome é Gabriel</h1>
+  <h3>Sou um autodidata que adora tecnologia</h3>
+  <h4> tenho o objetivo de me tornar um desenvolvedor FullStack, atualmente estou focado no Front end </h4>
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
+</div>
 
-ReactJs | Javascript / TypeScript | TailwindCss 
+---
+
+## 🛠 Tecnologias & Ferramentas
+
+<ul>
+  <li><strong>CSS & HTML:</strong> Estrutura e estilo das aplicações web</li>
+  <li><strong>JavaScript:</strong> Desenvolvimento Frontend</li>
+  <li><strong>TypeScript:</strong> Me permite trabalhar com tipagem estática e dar mais robustez ao código</li>
+  <li><strong>React:</strong> Para construção de interfaces dinâmicas e reativas</li>
+  <li><strong>Redux:</strong> Gerenciamento de estados</li>
+  <li><strong>Tailwind Css:</strong> Estudando... </li>
+  <li><strong>Jest:</strong> Em breve...</li>
+  <li><strong>Node.js:</strong> Em breve...</li>
+  <li><strong>Express:</strong> Em breve...</li>
+  <li><strong>SQL:</strong> Em breve...</li>
+  
+</ul>
+
+---
+## 🔎 Minhas fontes de pesquisa
+<ul>
+  <li> Documentações</li>
+  <li> Livros e PDFs</li>
+  
+</ul>
+  
+
+---
+
+## 🚀 Projetos em Destaque
+
+<ul>
+  <li><a href="https://github.com/seuusuario/projeto1"><strong>Projeto 1</strong></a>Calculadora de juros compostos</li>
+ 
+</ul>
+
+---
+
+<div align="center">
+  <p><strong>Conecte-se comigo:</strong></p>
+  <a href=" https://www.linkedin.com/in/gabriel-barbosa-0a38012a1/ ">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
 
 <!---
