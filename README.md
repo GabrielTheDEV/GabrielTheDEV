@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Olá! Meu nome é Gabriel</h1>
   <h3>Sou um autodidata que adora tecnologia</h3>
-  <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focado no Front end </h4>
+  <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando no Front end </h4>
 </div> 
 
 <div align="center">
