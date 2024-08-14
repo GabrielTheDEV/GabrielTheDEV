@@ -47,7 +47,7 @@
 <div align="center">
   <p><strong>Conecte-se comigo:</strong></p>
   <a href=" https://www.linkedin.com/in/gabriel-barbosa-0a38012a1/ ">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Link" />
   </a>
 </div>
 
