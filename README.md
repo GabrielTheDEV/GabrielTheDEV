@@ -25,7 +25,8 @@
   <li><strong>TypeScript:</strong> Me permite trabalhar com tipagem estática e dar mais robustez ao código</li>
   <li><strong>React:</strong> Para construção de interfaces dinâmicas e reativas</li>
   <li><strong>Redux:</strong> Gerenciamento de estados</li>
-  <li><strong>Tailwind Css:</strong> Estudando... </li>
+  <li><strong>Tailwind Css:</strong> me aprimorando... </li>
+  <li><strong>Axios:</strong> Estudando...</li>
   <li><strong>Next:</strong> Em breve </li>
   <li><strong>Jest:</strong> Em breve...</li>
   <li><strong>Node.js:</strong> Em breve...</li>
