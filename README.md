@@ -26,7 +26,7 @@
   <li><strong>React:</strong> Para construção de interfaces dinâmicas e reativas</li>
   <li><strong>Redux:</strong> Gerenciamento de estados</li>
   <li><strong>Tailwind Css:</strong> me aprimorando... </li>
-  <li><strong>Next:</strong> Estudando... </li>
+  <li><strong>Next.js:</strong> Estudando... </li>
   <li><strong>Axios:</strong> Em breve</li>
   <li><strong>graphQL:</strong> Em breve...</li>
   <li><strong>Jest:</strong> Em breve...</li>
