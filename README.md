@@ -30,6 +30,7 @@
   <li><strong>Axios:</strong> Em breve</li>
   <li><strong>graphQL:</strong> Em breve...</li>
   <li><strong>Jest:</strong> Em breve...</li>
+  <li><strong>Cypress:</strong> Em breve...</li>
   <li><strong>Node.js:</strong> Em breve...</li>
   <li><strong>Express:</strong> Em breve...</li>
   <li><strong>SQL:</strong> Em breve...</li>
