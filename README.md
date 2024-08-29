@@ -33,7 +33,12 @@
   <li><strong>Cypress:</strong> Em breve...</li>
   <li><strong>Node.js:</strong> Em breve...</li>
   <li><strong>Express:</strong> Em breve...</li>
-  <li><strong>SQL:</strong> Em breve...</li>
+  <li><strong>MySQL:</strong> Em breve...</li>
+  <li><strong>PostgreSQL:</strong> Em breve...</li>
+  <li><strong>MondoDB:</strong> Em breve...</li>
+  <li><strong>Cassandra:</strong> Em breve...</li>
+
+  
   
 </ul>
 
