@@ -17,32 +17,6 @@
 
 ---
 
-## 🛠 Tecnologias & Ferramentas
-
-<ul>
-  <li><strong>CSS & HTML:</strong> Estrutura e estilo das aplicações web</li>
-  <li><strong>JavaScript:</strong> Desenvolvimento Frontend</li>
-  <li><strong>TypeScript:</strong> Me permite trabalhar com tipagem estática e dar mais robustez ao código</li>
-  <li><strong>React:</strong> Para construção de interfaces dinâmicas e reativas</li>
-  <li><strong>Redux:</strong> Gerenciamento de estados</li>
-  <li><strong>Tailwind Css:</strong> me aprimorando... </li>
-  <li><strong>Next.js:</strong> Estudando... </li>
-  <li><strong>Axios:</strong> Em breve</li>
-  <li><strong>graphQL:</strong> Em breve...</li>
-  <li><strong>Jest:</strong> Em breve...</li>
-  <li><strong>Cypress:</strong> Em breve...</li>
-  <li><strong>Node.js:</strong> Em breve...</li>
-  <li><strong>Express:</strong> Em breve...</li>
-  <li><strong>MySQL:</strong> Em breve...</li>
-  <li><strong>PostgreSQL:</strong> Em breve...</li>
-  <li><strong>MondoDB:</strong> Em breve...</li>
-  <li><strong>Cassandra:</strong> Em breve...</li>
-
-  
-  
-</ul>
-
----
 ## 🔎 Minhas fontes de pesquisa
 <ul>
   <li> Documentações</li>
