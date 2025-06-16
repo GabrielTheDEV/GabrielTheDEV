@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Olá! Meu nome é Gabriel</h1>
   <h3>Sou um autodidata que adora tecnologia</h3>
-  <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java </h4>
+  <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></h4>
 </div> 
 
 <div align="center">
