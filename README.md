@@ -1,11 +1,11 @@
 <div align="center">
-  <h1>👋 Olá! Meu nome é Gabriel</h1>
+  <h2>👋 Eae, como vai, meu nome é Gabriel</h2>
   <h3>Sou um autodidata que adora tecnologia</h3>
   <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></h4>
 </div> 
 
 <div align="center">
-
+<h3>Minhas Habilidades</h3>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
