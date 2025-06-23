@@ -1,19 +1,18 @@
-<div align="center">
-  <h2>👋 Eae, como vai, meu nome é Gabriel</h2>
-  <h3>Sou um autodidata que adora tecnologia</h3>
-  <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></h4>
-</div> 
 
----
-## 🚀 Tech Stack & Tools
+  <h2>Eae como vai? meu nome é Gabriel 👋 </h2>
+  Sou um autodidata que adora tecnologia
+  <p>tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></p>
+
+
+## 🚀 Habilidades & Ferramentas
 
 [![My Skills](https://skillicons.dev/icons?i=java,maven,idea,vscode,mysql,docker,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
 
-- **Languages:** Java, TypeScript,JavaScript
+- **Linguagens:** Java, TypeScript,JavaScript
 - **Frameworks/Libraries:** React, Next.js, Maven, Docker
 - **UI/Styling:** Tailwind CSS
-- **Tools:** Git, GitHub, VS Code, Intellij
-- **Currently Exploring:** Java, Spring, docker.
+- **Ferramentas:** Git, GitHub, VS Code, Intellij
+- **Atualmente estudando:** Java mySQL e docker.
 
 
 <div align="center">
