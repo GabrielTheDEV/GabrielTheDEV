@@ -4,21 +4,16 @@
   <h4> tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></h4>
 </div> 
 
-<div align="center">
-<h3>Minhas Habilidades</h3>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
-</div>
-
 ---
+## 🚀 Tech Stack & Tools
 
+[![My Skills](https://skillicons.dev/icons?i=java,maven,idea,vscode,mysql,docker,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
+
+- **Languages:** Java, TypeScript,JavaScript
+- **Frameworks/Libraries:** React, Next.js, Maven, Docker
+- **UI/Styling:** Tailwind CSS
+- **Tools:** Git, GitHub, VS Code, Intellij
+- **Currently Exploring:** Java, Spring, docker.
 
 
 <div align="center">
