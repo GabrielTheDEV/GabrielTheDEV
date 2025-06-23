@@ -14,6 +14,14 @@
 - **Ferramentas:** Git, GitHub, VS Code, Intellij
 - **Atualmente estudando:** Java mySQL e docker.
 
+## 📊 GitHub Stats
+
+![GabrielTheDEV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielTheDEV&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTheDEV&layout=compact&theme=tokyonight)
+
+
+
+
 
 <div align="center">
   <p><strong>Como me encontrar</strong></p>
