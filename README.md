@@ -1,5 +1,5 @@
 
-  <h2>Eae como vai? meu nome é Gabriel 👋 </h2>
+  <h2 align="center">GabrielTheDEV</h2>
   Sou um autodidata que adora tecnologia
   <p>tenho como objetivo me tornar um desenvolvedor FullStack, atualmente estou focando em Java<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></p>
 
