@@ -6,7 +6,7 @@
 
 ## 🚀 Habilidades & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=java,maven,idea,vscode,mysql,docker,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,maven,idea,vscode,python,mysql,docker,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
 
 - **Linguagens:** Java, TypeScript,JavaScript
 - **Frameworks/Libraries:** React, Next.js, Maven, Docker
