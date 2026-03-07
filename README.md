@@ -6,14 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,vscode,python,fastapi,mysql,docker,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
 
 
-## 📊 GitHub Stats
-
-![GabrielTheDEV's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielTheDEV&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielTheDEV&layout=compact&theme=tokyonight)
-
-
-
-
 
 <div align="center">
   <p><strong>Como me encontrar</strong></p>
