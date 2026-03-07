@@ -5,11 +5,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,vscode,python,fastapi,mysql,docker,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
 
-- **Linguagens:** Java, TypeScript,JavaScript
-- **Frameworks/Libraries:** React, Next.js, Maven, Docker
-- **UI/Styling:** Tailwind CSS
-- **Ferramentas:** Git, GitHub, VS Code, Intellij
-- **Atualmente estudando:** Java mySQL e docker.
 
 ## 📊 GitHub Stats
 
