@@ -1,5 +1,7 @@
 
   <h2>Sobre mim : </h2>
+  <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/b65e9d18-3201-4075-8327-6f99d5c71424" />
+
 
 ## 🚀 Habilidades & Ferramentas
 
