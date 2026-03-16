@@ -1,7 +1,7 @@
 
 ## Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,idea,vscode,python,fastapi,mysql,docker,js,ts,react,nextjs,tailwind,git,github,supabase,langchain,redis)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,spring,maven,idea,vscode,fastapi,mysql,docker,react,nextjs,tailwind,git,github,supabase,redis)](https://skillicons.dev)
 
 
 
